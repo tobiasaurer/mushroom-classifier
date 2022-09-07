@@ -28,6 +28,8 @@ Special weight should be put on avoiding false negatives (i.e. predicting mushro
 
 ## Contributing Members  
 [Tobias (github)](https://github.com/tobiasaurer)
+[Simon (github)](https://github.com/simonmayer90)
 
 ## Contact
+* https://github.com/tobiasaurer
 * https://github.com/simonmayer90
