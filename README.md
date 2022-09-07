@@ -27,8 +27,8 @@ Special weight should be put on avoiding false negatives (i.e. predicting mushro
 3. Jupyter notebooks are being kept [here](https://github.com/simonmayer90/mushroom-classifier) at the parent level of this repo.
 
 ## Contributing Members  
-[Tobias (github)](https://github.com/tobiasaurer)
-[Simon (github)](https://github.com/simonmayer90)
+* [Tobias (github)](https://github.com/tobiasaurer)
+* [Simon (github)](https://github.com/simonmayer90)
 
 ## Contact
 * https://github.com/tobiasaurer
